@@ -26,8 +26,8 @@
 
 #### Features To Be Added :
 
-- [x] Scrape YTS
-- [ ] Integrate Into Flask To Make API
-- [ ] Integrate Into Telegram Bot
+- [x] Scrape More Qualities
+- [x] Integrate With Flask For API - [YTS/Yify Torrent Api](https://github.com/RGProjectX)
+- [ ] Integrate Into A Telegram Bot
 - [ ] Download Torrent File To Device
 - [ ] Stream Torrent File 
