@@ -1,7 +1,7 @@
 <h1 align="center">YTS-Torrent-Scrapper</h1>
 <p align="center">A Python Program To Search The User's Desired Movies On https://yts.mx</p>
 
-#### Show some :heart: and :star: the repo to support the project
+#### Spread Some :heart: And :star: The Repo To Support The Project
 
 [![GitHub stars](https://img.shields.io/github/stars/RGProjectX/yts-torrent-scrapper.svg?style=social&label=Star)](https://github.com/RGProjectX/yts-torrent-scrapper) ![GitHub followers](https://img.shields.io/github/followers/RGProjectX.svg?style=social&label=Follow)
 [![Telegram Handle](https://img.shields.io/badge/Telegram-Handle-brightgreen)](https://telegram.dog/RandomGuyRG69)
