@@ -1,5 +1,12 @@
 <h1 align="center">YTS-Torrent-Scrapper</h1>
 <p align="center">A Python Program To Search The User's Desired Movies On https://yts.mx</p>
+
+#### Show some :heart: and :star: the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/RGProjectX/yts-torrent-scrapper.svg?style=social&label=Star)](https://github.com/RGProjectX/yts-torrent-scrapper) ![GitHub followers](https://img.shields.io/github/followers/RGProjectX.svg?style=social&label=Follow)
+[![Telegram Handle](https://img.shields.io/badge/Telegram-Handle-brightgreen)](https://telegram.dog/RandomGuyRG69)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 <h2 align="center">Hi 🙌, I'm RG [Noob Dev]</h2>
 <h5 align="center">A Curious Guy Who Likes To Try Out Various Stuffs.</h5>
 
