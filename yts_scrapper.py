@@ -1,7 +1,10 @@
 '''
 Script Developed By : RGProjectX
 Github : https://github.com/RGProjectX/yts-torrent-scrapper
-Telegram : https://telegram.dog/RandomGuyRG69
+Telegram : https://telegram.dog/RGProjectX
+ATTENTION : This Script Is Only For Educational Purpose. 
+            I'm Not Responsible For Your Downloads Of Illegal Contents.
+            Please Abide By The Laws Of Your Country.
 '''
 from bs4 import BeautifulSoup
 import requests
