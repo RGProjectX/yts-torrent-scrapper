@@ -7,7 +7,7 @@
 [![Telegram Handle](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://telegram.dog/RGProjectX)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-<h2 align="center">Hi 🙌, I'm RG [Noob Dev]</h2>
+<h2 align="center">Hi 🙌, I'm RG</h2>
 <h5 align="center">A Random Guy[RG] Who Likes To Try Out Various Stuffs.</h5>
 
 - 🔭 I’m currently working on [YTS Scrapper](https://github.com/RGProjectX/yts-torrent-scrapper)
